@@ -24,6 +24,9 @@ namespace GA_WriteLine_WCram_Temp
             Console.Write("2.Alan Kay: ");
             Console.WriteLine(" The best way to predict the future is to invent it.");
 
+            Console.Write("William Cram: ");
+            Console.WriteLine("It's not about things being easy, it's about you being Excellent");
+
         } // <---- Closing Main Curly Brace
 
     } // End class
